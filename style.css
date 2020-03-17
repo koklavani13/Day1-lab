@@ -1,0 +1,43 @@
+.jk{
+	  margin-top: 100px;
+	 padding-top: 20px;  
+ position:fixed;
+	margin-left:500px;
+	padding-left:50px;
+}
+.mee{
+	margin-top: 20px;
+	margin-right: 20px;
+	position:fixed;
+	
+	
+}  
+.pa{
+	background-color: tomato;
+align-items:flex-end
+border-radius: 200px;
+margin:200px;
+padding:100px;
+
+}
+h1{
+	color: black;
+}
+.ww{
+	border: 0px;
+	border-spacing: 3em;
+	border-color: black;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	background-color:white;
+}
+.ee{
+	border: 0px;
+	border-spacing: 3em;
+	border-color: black;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color:white;
+
+
+}
